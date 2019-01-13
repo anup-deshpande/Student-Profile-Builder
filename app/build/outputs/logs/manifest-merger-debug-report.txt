@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\9cb1c1697b88e85cf40eafbdcbb41833\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c814aee5034b33c71e46249ddbe1079d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\83273198e8653cd80658212d514947be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\d125f1bf846b9effa02fadb5a0d87339\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\bd919a88c130fa87ea48f9a4ed1a0b67\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\c5a5b0cd27219093136c1945e9416837\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\bfd52f5be17563341dcca9f80b37596a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\160f08c555c6aed01b5db34188791dce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\e443a6724ec3be88a6af8541c33d6206\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\b0092b998d3b629db9d9130fe87fe6c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\66b50916aa7a5c6be4b1f9c52096bc45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\0385e49b091ba52d42010bcd660dc872\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\65c223cfdf8364905bc5b34e9170ff98\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\ab0f397977022a36c3da616263900c1f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\e5872cfc83a70a59fb3da870c542528f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\e706646fd54b6adbe33ef2a1391e55d2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\95d69e76cb939ae707b93e69e2f04e04\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\c4bd9119e38e6391a2e99d87e3707ccd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d0389aab995f39d42c2f5c617a5f7782\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\a2cb47ff6e302f745a7891466d318e1a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\65a267e8223807759e40cbcff369a0dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\2cd531fef0dd1de4e49b4eeb5622d07f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8e640aa94bfebdfad8514b5765862d31\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\35d97a6e7f27d26cb3655ae95078ec8c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bf299c4bd65a570dcf821bb43ac782ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\5c579ab8d0b9a178e5432fbba58bf509\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml
+		INJECTED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml
+		ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml
+		ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c814aee5034b33c71e46249ddbe1079d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c814aee5034b33c71e46249ddbe1079d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\e706646fd54b6adbe33ef2a1391e55d2\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\e706646fd54b6adbe33ef2a1391e55d2\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\95d69e76cb939ae707b93e69e2f04e04\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\95d69e76cb939ae707b93e69e2f04e04\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\e706646fd54b6adbe33ef2a1391e55d2\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.manalighare.inclass03.MainActivity
+ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.manalighare.inclass03.select_avatar
+ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:19:19-48
+activity#com.example.manalighare.inclass03.display_profile
+ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:20:9-62
+	android:name
+		ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml:20:19-50
+uses-sdk
+INJECTED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml
+INJECTED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\9cb1c1697b88e85cf40eafbdcbb41833\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\9cb1c1697b88e85cf40eafbdcbb41833\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c814aee5034b33c71e46249ddbe1079d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c814aee5034b33c71e46249ddbe1079d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\83273198e8653cd80658212d514947be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\83273198e8653cd80658212d514947be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\d125f1bf846b9effa02fadb5a0d87339\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\d125f1bf846b9effa02fadb5a0d87339\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\bd919a88c130fa87ea48f9a4ed1a0b67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\bd919a88c130fa87ea48f9a4ed1a0b67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\c5a5b0cd27219093136c1945e9416837\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\c5a5b0cd27219093136c1945e9416837\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\bfd52f5be17563341dcca9f80b37596a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\bfd52f5be17563341dcca9f80b37596a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\160f08c555c6aed01b5db34188791dce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\160f08c555c6aed01b5db34188791dce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\e443a6724ec3be88a6af8541c33d6206\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\e443a6724ec3be88a6af8541c33d6206\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\b0092b998d3b629db9d9130fe87fe6c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\b0092b998d3b629db9d9130fe87fe6c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\66b50916aa7a5c6be4b1f9c52096bc45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\66b50916aa7a5c6be4b1f9c52096bc45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\0385e49b091ba52d42010bcd660dc872\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\0385e49b091ba52d42010bcd660dc872\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\65c223cfdf8364905bc5b34e9170ff98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\65c223cfdf8364905bc5b34e9170ff98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\ab0f397977022a36c3da616263900c1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\ab0f397977022a36c3da616263900c1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\e5872cfc83a70a59fb3da870c542528f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\e5872cfc83a70a59fb3da870c542528f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\e706646fd54b6adbe33ef2a1391e55d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\e706646fd54b6adbe33ef2a1391e55d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\95d69e76cb939ae707b93e69e2f04e04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\95d69e76cb939ae707b93e69e2f04e04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\c4bd9119e38e6391a2e99d87e3707ccd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\c4bd9119e38e6391a2e99d87e3707ccd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d0389aab995f39d42c2f5c617a5f7782\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d0389aab995f39d42c2f5c617a5f7782\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\a2cb47ff6e302f745a7891466d318e1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\a2cb47ff6e302f745a7891466d318e1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\65a267e8223807759e40cbcff369a0dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\65a267e8223807759e40cbcff369a0dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\2cd531fef0dd1de4e49b4eeb5622d07f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\2cd531fef0dd1de4e49b4eeb5622d07f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8e640aa94bfebdfad8514b5765862d31\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8e640aa94bfebdfad8514b5765862d31\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\35d97a6e7f27d26cb3655ae95078ec8c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\35d97a6e7f27d26cb3655ae95078ec8c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bf299c4bd65a570dcf821bb43ac782ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bf299c4bd65a570dcf821bb43ac782ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\5c579ab8d0b9a178e5432fbba58bf509\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\5c579ab8d0b9a178e5432fbba58bf509\AndroidManifest.xml:20:5-44
+INJECTED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml
+INJECTED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml
+		ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml
+		INJECTED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml
+		ADDED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml
+		INJECTED from E:\UNCC first sem\MAD\Submitted Assignments\InClass03\app\src\main\AndroidManifest.xml
